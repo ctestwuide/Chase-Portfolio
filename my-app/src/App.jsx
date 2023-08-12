@@ -5,7 +5,6 @@ import About from './components/about/About.jsx'
 import Education from './components/education/Education.jsx'
 import Experience from './components/experience/Experience.jsx'
 import Portfolio from './components/portfolio/Portfolio.jsx'
-import Goal from './components/goal/Goal.jsx'
 import Contact from './components/contact/Contact.jsx'
 import Footer from './components/footer/Footer.jsx'
 
@@ -19,7 +18,6 @@ const App = () => {
       <Education />
       <Experience />
       <Portfolio />
-      <Goal />
       <Contact />
       <Footer />
 
