@@ -1,5 +1,8 @@
 import React from 'react'
 import './footer.css'
+import {BsWhatsapp} from 'react-icons/bs'
+import {BsInstagram} from 'react-icons/bs'
+import {AiOutlineLinkedin} from 'react-icons/ai'
 
 const Footer = () => {
   return (
@@ -18,7 +21,13 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/chase-testwuide/"></a>
+        <a href="https://www.linkedin.com/in/chase-testwuide/">{AiOutlineLinkedin}</a>
+        <a href="https://www.instagram.com/ctest_weed/">{BsInstagram}</a>
+        <a href="https://wa.me/+19206274599">{BsWhatsapp}</a>
+      </div>
+
+      <div className="footer__copyright">
+        <small>&copy; Chase Testwuide</small>
       </div>
     </footer>
   )
