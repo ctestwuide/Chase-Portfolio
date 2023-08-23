@@ -21,13 +21,13 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/chase-testwuide/">{AiOutlineLinkedin}</a>
-        <a href="https://www.instagram.com/ctest_weed/">{BsInstagram}</a>
-        <a href="https://wa.me/+19206274599">{BsWhatsapp}</a>
+        <a href="https://www.linkedin.com/in/chase-testwuide/" target='_blank'><AiOutlineLinkedin /></a>
+        <a href="https://www.instagram.com/ctest_weed/" target='_blank'><BsInstagram /></a>
+        <a href="https://wa.me/+19206274599" target='_blank'><BsWhatsapp /></a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Chase Testwuide</small>
+        <small>&copy;2023 Chase Testwuide</small>
       </div>
     </footer>
   )
