@@ -32,6 +32,12 @@
     text-align: center;
 }
 
+.education__head h5 {
+    color: var(--color-bg-variant);
+    font-size: .75rem;
+    text-align: center;
+}
+
 .education__list {
     padding: 2rem;
 
@@ -43,12 +49,11 @@
     margin-bottom: 0.8rem;
 }
 
-.education__list-icon {
+/* .education__list-icon {
     color: var(--color-primary);
     margin-top: 3px;
-    height: 20px;
-    width: 20px;
-}
+    font-size: 20px;
+} */
 
 .education__list p {
     font-size: 0.9rem;
