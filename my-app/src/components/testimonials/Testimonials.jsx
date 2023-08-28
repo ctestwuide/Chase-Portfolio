@@ -37,8 +37,8 @@ const data = [
     key: 3,
     avatar: Warren,
     name: 'Warren Buffett',
-    review: 'Chase is an excellent investment.\
-    I plan to hold a long position for the long-term. I know that it\'s the smart thing to do.'
+    review: 'Chase is an excellent investment. To be frank, he\'s basically the next Apple.\
+    Hire him while you can. I know that it\'s the smart thing to do.'
   },
   {
     key: 4,

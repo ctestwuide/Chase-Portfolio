@@ -22,28 +22,32 @@ const About = () => {
 
             <article className='about__card'>
               <FaAward className='about_icon'/>
-              <h5>Experience</h5>
-              <small>5+ Years Working</small>
+              <h5>Business Development</h5>
+              <small>4+ Years Working</small>
+            </article>
+
+            <article className='about__card'>
+              <FaAward className='about_icon'/>
+              <h5>Data Analytics</h5>
+              <small>2+ Years Working</small>
             </article>
 
             <article className='about__card'>
               <FaLaptopCode className='about_icon'/>
               <h5>Coding</h5>
-              <small>3+ Years Coding</small>
+              <small>2+ Years Studying</small>
             </article>
 
-            <article className='about__card'>
-              <FaAward className='about_icon'/>
-              <h5>Experience</h5>
-              <small>5+ Years Working</small>
-            </article>
 
           </div>
 
           <p>
-            This is where I'll write all about my Experience
-            and how I love to learn and that I actually know things
-            and that they should hire me for some reason
+          In the last five years within the manufacturing industry, I've faced many challenges and have refined my expertise as a Business Development Manager. 
+          As I approach the completion of my Master's degree in Business from Cornell University in December 2023, 
+          I am exporing new career opportunities. My focus spans across several sectors including
+          accounting, finance, analytics, consulting, and 
+          software development. I'm receptive to roles both domestically in the US and on the international stage, 
+          and I hold the necessary rights to work in the UK.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
