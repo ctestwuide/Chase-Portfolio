@@ -1,6 +1,7 @@
 import React from 'react'
 import './testimonials.css'
 import George from '../../assets/george.jpg'
+import Jeff from '../../assets/Jeff.jpg'
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -19,12 +20,12 @@ const data = [
     key: 1,
     avatar: George,
     name: 'George Washington',
-    review: 'the baddest baddie around. fucking amazing chap that could definite\
-    baddie around.'
+    review: 'This man could have single-handedly founded US. Perhap I call him daddy?\
+    Thou would not have even need dentures.'
   },
   {
     key: 2,
-    avatar: George,
+    avatar: Jeff,
     name: 'George Washington',
     review: 'the baddest baddie around. fucking amazing chap that could definite\
     baddie around.'
