@@ -8,6 +8,7 @@ import Portfolio from './components/portfolio/Portfolio.jsx'
 import Testimonials from './components/testimonials/Testimonials.jsx'
 import Contact from './components/contact/Contact.jsx'
 import Footer from './components/footer/Footer.jsx'
+import Cport from './components/cport/Cport.jsx'
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
       <Education />
       <Experience />
       <Portfolio />
+      <Cport />
       <Testimonials />
       <Contact />
       <Footer />
