@@ -3,6 +3,8 @@ import './about.css'
 import Cat from '../../assets/chase-cat.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FaLaptopCode} from 'react-icons/fa'
+import {TbDeviceAnalytics} from 'react-icons/tb'
+
 
 const About = () => {
   return (
@@ -27,7 +29,7 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <FaAward className='about_icon'/>
+              <TbDeviceAnalytics className='about_icon'/>
               <h5>Data Analytics</h5>
               <small>2+ Years Working</small>
             </article>

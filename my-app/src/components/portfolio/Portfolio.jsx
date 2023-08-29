@@ -5,7 +5,7 @@ import Start from "../../assets/startup.jpg"
 import OCR from "../../assets/ocr.png"
 import Skana from "../../assets/skana.png"
 import Funky from "../../assets/funky.png"
-import Crystal from "../../assets/crystal.png"
+import Crystal from "../../assets/crystal.jpg"
 
 const data = [
   {
@@ -18,7 +18,7 @@ const data = [
     id: 2,
     image: Torginol,
     title: 'In-Depth Acquisition Analysis for Torginol',
-    description: 'I orchestrated a holistic market research, financial analysis, and onsite evaluation of a local manufacturing entity. Presenting my insightful findings to Torginol\'s executive ensemble, they subsequently acted in alignment with my counsel.',
+    description: 'I orchestrated a holistic industry report, market research, financial analysis, and onsite evaluation of a local manufacturing entity. I focused on competitive research analysis and market leaders. Presenting my insightful findings to Torginol\'s executive ensemble, they subsequently acted in alignment with my recommendation.',
   },
   {
     id: 3,
