@@ -21,9 +21,9 @@ import { Pagination, Navigation } from 'swiper/modules';
 
 const Cport = () => {
   return (
-    <section id="cports">
+    <section id="cport-header">
 
-      <h2>Coding Project</h2>
+      <h2>Coding Portfolio</h2>
 
       <Swiper modules={[Pagination, Navigation]} className="container cports__container"
       pagination={{ clickable: true}} >
