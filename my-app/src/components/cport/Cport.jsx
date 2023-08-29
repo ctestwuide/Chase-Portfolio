@@ -21,14 +21,14 @@ import { Pagination, Navigation } from 'swiper/modules';
 
 const Cport = () => {
   return (
-    <section id="testimonials">
+    <section id="cports">
 
       <h2>Coding Project</h2>
 
-      <Swiper modules={[Pagination, Navigation]} className="container testimonials__container"
+      <Swiper modules={[Pagination, Navigation]} className="container cports__container"
       pagination={{ clickable: true}} >
 
-        <SwiperSlide autoHeight={false} className="testimonial">
+        <SwiperSlide autoHeight={false} className="cport">
         <article className="portfolio__item">
             <div className="portfolio__item-image">
             <video src={Journey} controls width="100%" height="auto"></video>
@@ -45,7 +45,7 @@ const Cport = () => {
         </article>
         </SwiperSlide>
 
-        <SwiperSlide autoHeight={false} className="testimonial">
+        <SwiperSlide autoHeight={false} className="cport">
         <article className="portfolio__item">
             <div className="portfolio__item-image">
             <img src={Snake} alt="Snake game" />
@@ -61,7 +61,7 @@ const Cport = () => {
         </article>
         </SwiperSlide>
 
-        <SwiperSlide autoHeight={false} className="testimonial">
+        <SwiperSlide autoHeight={false} className="cport">
         <article className="portfolio__item">
             <div className="portfolio__item-image">
             <img src={Admin} alt="Software Engineering Admin Assignment" />
