@@ -4,6 +4,10 @@
     gap: 15%;
 }
 
+.about-thing {
+    color: var(--color-primary);
+}
+
 .about__me {
     width: 100%;
     aspect-ratio: 1/1;
