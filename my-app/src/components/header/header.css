@@ -10,6 +10,10 @@ header {
     position: relative;
 }
 
+header__container h5 {
+    font-size: 1rem;
+}
+
 /* --------CTA-------- */
 .cta {
     margin-top: 2.5rem;
@@ -31,24 +35,12 @@ header {
 
 .header__socials::after {
     content: "";
-    width: 2px;
-    height: 2rem;
+    width: 5px;
+    height: 4rem;
     background: var(--color-primary);
 }
 
-/* ---------ME--------- */
-/* .me {
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
-    position: absolute;
-    left: calc(50% - 11rem);
-    margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
-    overflow: hidden;
-    padding-bottom: 0;
-    border: 5px solid white;
-} */
+
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
@@ -78,7 +70,7 @@ header {
     bottom: 10rem;
     transform: rotate(90deg);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
 }
 
 /* ---------MEDIA QUERIES--------- */

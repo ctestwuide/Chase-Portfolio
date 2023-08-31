@@ -9,7 +9,7 @@ import {TbDeviceAnalytics} from 'react-icons/tb'
 const About = () => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
+      <h5 className="mini-text">Get To Know</h5>
       <h2>About Me</h2>
 
       <div className="container about__container">
@@ -52,7 +52,8 @@ const About = () => {
               
 
             <strong className='about-thing'>Current Employment: </strong>  
-            In the last five years within the manufacturing industry, I've faced many challenges and have refined my expertise as a Business Development Manager at Torginol. 
+            In the last five years working in business development at Torginol, I've faced many challenges that inspired me to enhance my skills in a
+             variety of areas to further add value to the company. 
             As I approach the completion of my Master's degree in Business from Cornell University in December 2023, 
             I'm eager to change the trajectory of my career with a new challenge. My focus spans across several sectors including
             accounting, finance, analytics, consulting, and 

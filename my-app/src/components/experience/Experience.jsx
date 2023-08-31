@@ -6,13 +6,13 @@ const Experience = () => {
   return (
     <section id="experience">
 
-      <h5>The Skills I Have</h5>
-      <h2>Technologies and Technical Skills</h2>
+      <h5 className='mini-text'>The Skills I Have</h5>
+      <h2 id="tec">Technologies and Technical Skills</h2>
 
       <div className="container experience__container">
 
         <div className="experience__business">
-          <h3>Business</h3>
+          <h3 id='port-head' className='porfolio-sec'>Business</h3>
 
           <div className="experience__content-bus">
 
@@ -66,7 +66,7 @@ const Experience = () => {
         </div>
 
         <div className="experience__tech">
-          <h3>Programming</h3>
+          <h3 id='port-head1' className='porfolio-sec'>Programming</h3>
           <div className="experience__content">
 
             <article className='experience__details'>

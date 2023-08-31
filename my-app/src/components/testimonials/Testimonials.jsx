@@ -58,7 +58,7 @@ const data = [
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Reviews from trusted sources</h5>
+      <h5 className='mini-text'>Reviews from trusted sources</h5>
       <h2>Testimonials</h2>
 
       <Swiper modules={[Pagination, Navigation]} className="container testimonials__container"

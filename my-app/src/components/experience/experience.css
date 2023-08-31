@@ -34,14 +34,18 @@
     color: var(--color-primary);
 }
 
-/* business content */
+#tec {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
 
-/* .experience__content-bus {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    row-gap: 2rem;
+#port-head, #port-head1 {
+    color: white;
+}
 
-} */
+.porfolio-sec {
+    font-size: 2rem;
+}
 
 .experience__details-bus {
     margin-bottom: 1rem;
@@ -51,10 +55,7 @@
     margin-bottom: 0px;
 }
 
-/* .experience__details-bus-icon {
-    margin-top: 6px;
-    color: var(--color-primary);
-} */
+
 
 
 .experience__content-bus {

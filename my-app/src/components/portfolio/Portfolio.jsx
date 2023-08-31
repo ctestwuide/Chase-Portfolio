@@ -24,13 +24,13 @@ const data = [
     id: 3,
     image: OCR,
     title: 'Digital Record Keeping Overhaul at Torginol',
-    description: 'I initiated and solely implemented the Chrono Scan OCR software to revolutionize Torginol\'s accounting documentation. This innovative move not only streamlined financial operations but also slashed accounting expenses by 20% in just its debut week — a success that propelled my ascent to a business development role.',
+    description: 'I initiated and solely implemented the Chrono Scan OCR software to revolutionize Torginol\'s accounting documentation. This innovative move not only streamlined financial operations but also slashed accounting expenses by 20% in just its debut week. This success propelled my promotion to a business development role.',
   },
   {
     id: 4,
     image: Crystal,
     title: 'AR Inconsistencies Uncovered ',
-    description: 'Leveraging Crystal Reporting, I delved into data from Sage 100 ERP to explore profitability discrepancies among Torginol\'s top customers. This inquiry shed light on a payment processing inconsistency, pinpointing a cash shortfall of nearly $100,000 in the first half of the fiscal year.',
+    description: 'Leveraging Crystal Reporting software, I delved into data extracted from Sage 100 ERP to explore profitability discrepancies among Torginol\'s top twenty customers. This inquiry shed light on a payment processing inconsistency, pinpointing a cash shortfall of nearly $100,000 in the first half of the fiscal year.',
   },
   {
     id: 5,
@@ -51,7 +51,7 @@ const Portfolio = () => {
   
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
+      <h5 className='mini-text'>My Recent Work</h5>
       <h2>Business Portfolio</h2>
 
       <div className="container portfolio__container">

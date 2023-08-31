@@ -4,7 +4,8 @@ import './education.css'
 const Education = () => {
   return (
     <section id="education">
-      <h5>My Educational Background</h5>
+      <h5 className='mini-text'>My Academic Background</h5>
+      <h2 id="edu"><strong>Education</strong></h2>
       <h2>Accounting ○ Finance ○ Marketing ○ Analytics ○ Software Development</h2>
 
       <div className="container education__container">

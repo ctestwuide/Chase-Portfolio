@@ -28,13 +28,13 @@
 
 .education__head h3 {
     color: var(--color-bg);
-    font-size: 1rem;
+    font-size: 1.2rem;
     text-align: center;
 }
 
 .education__head h5 {
     color: var(--color-bg-variant);
-    font-size: .75rem;
+    font-size: .9rem;
     text-align: center;
 }
 
@@ -54,6 +54,12 @@
     margin-top: 3px;
     font-size: 20px;
 } */
+
+#edu {
+    font-size: 3rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
 
 .education__list p {
     font-size: 0.9rem;
