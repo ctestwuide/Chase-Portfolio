@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6246da69.css",
-    "main.js": "/static/js/main.ad5e5840.js",
+    "main.css": "/static/css/main.617983fc.css",
+    "main.js": "/static/js/main.01195aa5.js",
     "static/media/Untitled.mp4": "/static/media/Untitled.01a94a69b1367e9fad63.mp4",
     "static/media/Chase-No-Background.png": "/static/media/Chase-No-Background.ff93df2d8c8efa950f29.png",
     "static/media/chase-cat.jpg": "/static/media/chase-cat.ddc4b57c7cdb4080b622.jpg",
@@ -11,15 +11,16 @@
     "static/media/Chase Testwuide Resume.pdf": "/static/media/Chase Testwuide Resume.5208c28a772350d3a7b3.pdf",
     "static/media/ocr.png": "/static/media/ocr.84c008501101c788a317.png",
     "static/media/Admin.png": "/static/media/Admin.ea50d1c34fc2449cf00b.png",
+    "static/media/torginol.png": "/static/media/torginol.8e966151287c1fabb91e.png",
     "static/media/crystal.jpg": "/static/media/crystal.2e923aef921cbc8db248.jpg",
     "static/media/startup.jpg": "/static/media/startup.5c6ffa31fbef890493bc.jpg",
     "static/media/kim.jpeg": "/static/media/kim.1b8b91969fb110635af3.jpeg",
     "index.html": "/index.html",
-    "main.6246da69.css.map": "/static/css/main.6246da69.css.map",
-    "main.ad5e5840.js.map": "/static/js/main.ad5e5840.js.map"
+    "main.617983fc.css.map": "/static/css/main.617983fc.css.map",
+    "main.01195aa5.js.map": "/static/js/main.01195aa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6246da69.css",
-    "static/js/main.ad5e5840.js"
+    "static/css/main.617983fc.css",
+    "static/js/main.01195aa5.js"
   ]
 }
