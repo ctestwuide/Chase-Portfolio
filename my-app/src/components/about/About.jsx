@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Cat from '../../assets/chase-cat.jpg'
+import Cat from '../../assets/9.10.23 Headshot 1 - Copy.png'
 import {FaAward} from 'react-icons/fa'
 import {FaLaptopCode} from 'react-icons/fa'
 import {TbDeviceAnalytics} from 'react-icons/tb'
